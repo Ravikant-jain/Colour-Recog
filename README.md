@@ -20,4 +20,5 @@ Model Architecture: Implemented an Artificial Neural Network using TensorFlow wi
 Training: The model was trained on the collected dataset for 200 epochs, achieving a accuracy of 99.4%.
 
 Contributing
+
 Feel free to open issues, submit pull requests, or suggest improvements!
